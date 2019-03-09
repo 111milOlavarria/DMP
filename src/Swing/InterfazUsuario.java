@@ -1,8 +1,8 @@
 
 package Swing;
 
-import static Swing.Registro.txtPassword;
-import static Swing.Registro.txtUsuario;
+//import static Swing.Registro.txtPassword;
+//import static Swing.Registro.txtUsuario;
 import clases.Conectar;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
